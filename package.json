@@ -1,0 +1,16 @@
+{
+  "name": "notes-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Jassim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "pg": "^8.7.3"
+  }
+}
